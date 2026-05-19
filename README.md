@@ -1,6 +1,6 @@
 # Hello, I'm Zalak Doshi 👋
 
-**Aspiring Developer | Stepping into the Real World | Debugging Life, One Semicolon at a Time**
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Developer;MERN+Stack+Explorer;Building+Modern+Web+Applications;Always+Learning+Something+New" /></p>
 
 ---
 
@@ -16,26 +16,19 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ## Technical Stack
 
-### Frontend
-- **JavaScript** - ES6+, DOM Manipulation, Async Programming
-- **React.js** - Hooks, Context API, Component Architecture
-- **HTML5 & CSS3** - Responsive Design, Flexbox, Grid
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,python,java,git,github,vscode,postman" />
+</p>
 
-### Backend
-- **Node.js** - RESTful APIs, Middleware, Authentication
-- **Express.js** - Routing, Error Handling, Server-Side Logic
-- **MongoDB** - NoSQL Database Design, Aggregation, Indexing
+### What I Work With
 
-### Languages
-- **Python** - Data Structures, Algorithms, Scripting
-- **Java** - OOP Principles, Collections Framework
-- **JavaScript** - Full Stack Development
+**Frontend:** JavaScript (ES6+), React.js (Hooks, Context API), HTML5, CSS3 (Responsive Design, Flexbox, Grid)
 
-### Tools & Technologies
-- Git & GitHub - Version Control
-- Postman - API Testing
-- VS Code - Development Environment
-- npm/yarn - Package Management
+**Backend:** Node.js, Express.js (RESTful APIs, Middleware, Authentication), MongoDB (NoSQL, Aggregation, Indexing)
+
+**Languages:** JavaScript, Python, Java
+
+**Tools:** Git & GitHub, VS Code, Postman, npm/yarn
 
 ---
 
@@ -67,11 +60,11 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ---
 
-## Contribution Activity
+## Contribution Calendar
 
 <div align="center">
 
-[![Zalak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zalakdoshi&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/zalakdoshi)
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/zalakdoshi/zalakdoshi/output/github-contribution-grid-snake.svg)
 
 </div>
 
