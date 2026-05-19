@@ -39,19 +39,6 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 🔗 **LinkedIn:** [linkedin.com/in/zalakdoshi1311](https://www.linkedin.com/in/zalakdoshi1311/)  
 🔗 **Email:** [zalakdoshi784@gmail.com](mailto:zalakdoshi784@gmail.com)
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <strong>� My GitHub Journey</strong><br><br>
-  💻 <strong>Commits:</strong> Building features and fixing bugs<br>
-  🔀 <strong>Pull Requests:</strong> Contributing to projects<br>
-  🐛 <strong>Issues:</strong> Identifying and solving problems<br>
-  � <strong>Repositories:</strong> Creating and maintaining projects<br>
-  � <strong>Code Pushes:</strong> Continuously shipping improvements<br><br>
-  <em>Tracking my growth, one contribution at a time</em>
-</p>
 
 ---
 
