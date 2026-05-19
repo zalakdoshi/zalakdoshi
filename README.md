@@ -1,6 +1,6 @@
 # Hello, I'm Zalak Doshi 👋
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Passionate+Problem+Solver;Building+Modern+Web+Experiences;Debugging+Life,+One+Semicolon+at+a+Time" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Code+Enthusiast+%7C+Web+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Debugging+Life,+One+Semicolon+at+a+Time" /></p>
 
 ---
 
@@ -36,18 +36,12 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 
 
-## GitHub Statistics
+## GitHub Analytics
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zalakdoshi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> 
+  <img width="49%" src="https://streak-stats.demolab.com?user=zalakdoshi&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
 ---
 
@@ -60,11 +54,9 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ## Contribution Snake
 
-<div align="center">
-  
-![snake gif](https://github.com/zalakdoshi/zalakdoshi/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zalakdoshi/zalakdoshi/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
