@@ -36,14 +36,31 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 
 
-## GitHub Analytics
+## Contribution Activity
+
+## 🚀 GitHub Journey
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> 
-  <img width="49%" src="https://streak-stats.demolab.com?user=zalakdoshi&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=zalakdoshi&theme=tokyonight&hide_border=true&background=0D1117" />
+
 </p>
 
----
+<p align="center">
+
+<img src="https://img.shields.io/badge/💻_Commits-Building_Features_&_Fixing_Bugs-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🔀_Pull_Requests-Contributing_to_Projects-7C3AED?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🐛_Issues-Identifying_&_Solving_Problems-9333EA?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/📁_Repositories-Creating_&_Maintaining_Projects-A855F7?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🚀_Code_Pushes-Continuously_Shipping_Improvements-6D28D9?style=for-the-badge" />
+
+</p>
 
 ## Connect With Me
 
