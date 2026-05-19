@@ -1,6 +1,6 @@
 # Hello, I'm Zalak Doshi 👋
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Code+Enthusiast+%7C+Web+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Debugging+Life,+One+Semicolon+at+a+Time" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Code+Enthusiast+%7C+Web+Developer;Building+Modern+Web+Experiences;Turning+Coffee+into+Code;Debugging+Life,+One+Semicolon+at+a+Time" /></p>
 
 ---
 
@@ -47,15 +47,15 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/zalakdoshi1311/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zalakdoshi784@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/zalakdoshi1311](https://www.linkedin.com/in/zalakdoshi1311/)  
+� **Email:** [zalakdoshi784@gmail.com](mailto:zalakdoshi784@gmail.com)d
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zalakdoshi/zalakdoshi/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zalakdoshi&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
