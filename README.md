@@ -1,6 +1,6 @@
 # Hello, I'm Zalak Doshi 👋
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Developer;MERN+Stack+Explorer;Building+Modern+Web+Applications;Always+Learning+Something+New" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Debugging+Life,+One+Semicolon+at+a+Time;Building+Modern+Web+Experiences;Aspiring+Developer;React+%7C+Node.js+%7C+MongoDB" /></p>
 
 ---
 
@@ -40,15 +40,13 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zalakdoshi&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zalakdoshi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=radical&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -64,7 +62,7 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 <div align="center">
 
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/zalakdoshi/zalakdoshi/output/github-contribution-grid-snake.svg)
+[![Zalak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zalakdoshi&theme=tokyo-night&hide_border=true)](https://github.com/zalakdoshi)
 
 </div>
 
