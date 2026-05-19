@@ -1,6 +1,6 @@
 # Hello, I'm Zalak Doshi 👋
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Debugging+Life,+One+Semicolon+at+a+Time;Building+Modern+Web+Experiences;Aspiring+Developer;React+%7C+Node.js+%7C+MongoDB" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Passionate+Problem+Solver;Building+Modern+Web+Experiences;Debugging+Life,+One+Semicolon+at+a+Time" /></p>
 
 ---
 
@@ -22,7 +22,7 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ### What I Work With
 
-**Frontend:** JavaScript (ES6+), React.js (Hooks, Context API), HTML5, CSS3 (Responsive Design, Flexbox, Grid)
+**Frontend:**  React.js (Hooks, Context API), JavaScript (ES6+),HTML5, CSS3 (Responsive Design, Flexbox, Grid)
 
 **Backend:** Node.js, Express.js (RESTful APIs, Middleware, Authentication), MongoDB (NoSQL, Aggregation, Indexing)
 
@@ -58,11 +58,11 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ---
 
-## Contribution Calendar
+## Contribution Snake
 
 <div align="center">
-
-[![Zalak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zalakdoshi&theme=tokyo-night&hide_border=true)](https://github.com/zalakdoshi)
+  
+![snake gif](https://github.com/zalakdoshi/zalakdoshi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
