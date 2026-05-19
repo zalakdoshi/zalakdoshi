@@ -55,10 +55,13 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 ## Contribution Activity
 
 <p align="center">
-  <strong>🚀 Actively building and learning</strong><br>
-  💻 Exploring full stack development<br>
-  📚 Continuously improving through hands-on projects<br>
-  🌱 Growing one commit at a time
+  <strong>� My GitHub Journey</strong><br><br>
+  💻 <strong>Commits:</strong> Building features and fixing bugs<br>
+  🔀 <strong>Pull Requests:</strong> Contributing to projects<br>
+  🐛 <strong>Issues:</strong> Identifying and solving problems<br>
+  � <strong>Repositories:</strong> Creating and maintaining projects<br>
+  � <strong>Code Pushes:</strong> Continuously shipping improvements<br><br>
+  <em>Tracking my growth, one contribution at a time</em>
 </p>
 
 ---
