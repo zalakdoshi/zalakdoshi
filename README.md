@@ -61,7 +61,6 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 <img src="https://img.shields.io/badge/🚀_Code_Pushes-Continuously_Shipping_Improvements-6D28D9?style=for-the-badge" />
 
 </p>
-
 ## Connect With Me
 
 🔗 **LinkedIn:** [linkedin.com/in/zalakdoshi1311](https://www.linkedin.com/in/zalakdoshi1311/)  
