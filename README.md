@@ -1,6 +1,6 @@
 # Hello, I'm Zalak Doshi 👋
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Code+Enthusiast+%7C+Web+Developer;Building+Modern+Web+Experiences;Turning+Coffee+into+Code;Debugging+Life,+One+Semicolon+at+a+Time" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Experiences;Crafting+Ideas+into+Reality;Debugging+Life,+One+Semicolon+at+a+Time;Learning.+Building.+Improving." /></p>
 
 ---
 
@@ -48,14 +48,17 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 ## Connect With Me
 
 🔗 **LinkedIn:** [linkedin.com/in/zalakdoshi1311](https://www.linkedin.com/in/zalakdoshi1311/)  
-� **Email:** [zalakdoshi784@gmail.com](mailto:zalakdoshi784@gmail.com)d
+🔗 **Email:** [zalakdoshi784@gmail.com](mailto:zalakdoshi784@gmail.com)
 
 ---
 
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zalakdoshi&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <strong>🚀 Actively building and learning</strong><br>
+  💻 Exploring full stack development<br>
+  📚 Continuously improving through hands-on projects<br>
+  🌱 Growing one commit at a time
 </p>
 
 ---
@@ -80,6 +83,5 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 **"Transforming ideas into elegant code, one commit at a time."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=zalakdoshi&color=blueviolet&style=flat-square)
 
 </div>
