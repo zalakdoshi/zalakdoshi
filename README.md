@@ -44,26 +44,39 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 ## Professional Approach
 
 ```javascript
-const zalak = {
-  code: ["JavaScript", "Python", "Java"],
-  technologies: {
-    frontend: ["React", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB"],
-  },
-  currentFocus: "Building scalable full stack applications",
-  learning: "Advanced system design and cloud technologies",
-  philosophy: "Code with purpose, learn with curiosity, build with passion"
+const developerMindset = {
+  problemSolving: "Break complex challenges into manageable solutions",
+  codeQuality: "Write clean, maintainable, and well-documented code",
+  continuousLearning: "Stay curious and embrace new technologies",
+  collaboration: "Communicate effectively and contribute to team success",
+  adaptability: "Pivot quickly when requirements change or obstacles arise"
 };
+
+// My development philosophy
+function buildSolution(problem) {
+  const solution = analyze(problem)
+    .then(design)
+    .then(implement)
+    .then(test)
+    .then(optimize);
+  
+  return solution;
+}
 ```
+
+### Core Values
+- **Quality over speed** - Sustainable code beats quick fixes
+- **Learn by doing** - Theory is important, but practice makes perfect
+- **Embrace failure** - Every bug is a lesson, every error is growth
+- **Stay humble** - There's always more to learn in tech
 
 ---
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -76,7 +89,7 @@ const zalak = {
 
 ## Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zalakdoshi&theme=react-dark&hide_border=true&area=true)
 
 ---
 
@@ -100,6 +113,6 @@ const zalak = {
 
 **"Transforming ideas into elegant code, one commit at a time."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=zalakdoshi&color=blueviolet&style=flat-square)
 
 </div>
