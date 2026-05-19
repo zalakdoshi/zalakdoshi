@@ -41,42 +41,22 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 
 
-## Professional Approach
 
-```javascript
-const developerMindset = {
-  problemSolving: "Break complex challenges into manageable solutions",
-  codeQuality: "Write clean, maintainable, and well-documented code",
-  continuousLearning: "Stay curious and embrace new technologies",
-  collaboration: "Communicate effectively and contribute to team success",
-  adaptability: "Pivot quickly when requirements change or obstacles arise"
-};
-
-// My development philosophy
-function buildSolution(problem) {
-  const solution = analyze(problem)
-    .then(design)
-    .then(implement)
-    .then(test)
-    .then(optimize);
-  
-  return solution;
-}
-```
-
-### Core Values
-- **Quality over speed** - Sustainable code beats quick fixes
-- **Learn by doing** - Theory is important, but practice makes perfect
-- **Embrace failure** - Every bug is a lesson, every error is growth
-- **Stay humble** - There's always more to learn in tech
-
----
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zalakdoshi&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
@@ -87,9 +67,13 @@ function buildSolution(problem) {
 
 ---
 
-## Activity Graph
+## Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zalakdoshi&theme=react-dark&hide_border=true&area=true)
+<div align="center">
+
+[![Zalak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zalakdoshi&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/zalakdoshi)
+
+</div>
 
 ---
 
