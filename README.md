@@ -4,14 +4,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalak1311&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zalakdoshi&theme=radical&hide_border=true" alt="GitHub Trophies" />
-</p>
+![Commits](https://badges.pufler.dev/commits/monthly/zalakdoshi)
+![PRs](https://badges.pufler.dev/prs/zalakdoshi)
+![Issues](https://badges.pufler.dev/issues/zalak)doshi
+![Repos](https://badges.pufler.dev/repos/zalakdoshi)
 
 ---
 
@@ -82,9 +80,5 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 <div align="center">
 
 **"Transforming ideas into elegant code, one commit at a time."**
-
----
-
-![Footer](https://komarev.com/ghpvc/?username=zalakdoshi&label=Profile%20Views&color=8A2BE2&style=flat)
 
 </div>
