@@ -4,6 +4,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zalak1311&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalak1311&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zalak1311&theme=radical&hide_border=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## About Me
 
 I'm passionate about building web applications and solving problems through code. Currently exploring the full stack—from crafting interactive frontends to designing robust backends—while discovering where my strengths and passions truly align.
@@ -22,7 +33,7 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ### What I Work With
 
-**Frontend:**  React.js (Hooks, Context API), JavaScript (ES6+),HTML5, CSS3 (Responsive Design, Flexbox, Grid)
+**Frontend:** React.js (Hooks, Context API), JavaScript (ES6+),HTML5, CSS3 (Responsive Design, Flexbox, Grid)
 
 **Backend:** Node.js, Express.js (RESTful APIs, Middleware, Authentication), MongoDB (NoSQL, Aggregation, Indexing)
 
@@ -32,13 +43,23 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ---
 
+## Currently Learning 🚀
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,docker,aws" />
+</p>
+
+- TypeScript & Next.js for modern React development
+- Docker & containerization
+- Cloud deployment (AWS/Azure)
+- System design fundamentals
+
+---
 
 ## Connect With Me
 
 🔗 **LinkedIn:** [linkedin.com/in/zalakdoshi1311](https://www.linkedin.com/in/zalakdoshi1311/)  
 🔗 **Email:** [zalakdoshi784@gmail.com](mailto:zalakdoshi784@gmail.com)
-
 
 ---
 
@@ -62,5 +83,8 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 **"Transforming ideas into elegant code, one commit at a time."**
 
+---
+
+![Footer](https://komarev.com/ghpvc/?username=zalakdoshi&label=Profile%20Views&color=8A2BE2&style=flat)
 
 </div>
