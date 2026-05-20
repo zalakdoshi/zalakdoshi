@@ -6,10 +6,10 @@
 
 ### 📊 GitHub Stats
 
-![Commits](https://badges.pufler.dev/commits/monthly/zalakdoshi)
-![PRs](https://badges.pufler.dev/prs/zalakdoshi)
-![Issues](https://badges.pufler.dev/issues/zalak)doshi
-![Repos](https://badges.pufler.dev/repos/zalakdoshi)
+**📝 Commits:** ![Commits](https://img.shields.io/github/commits/zalakdoshi?style=flat)
+**🔧 Pull Requests:** ![PRs](https://img.shields.io/github/prs/zalakdoshi?style=flat)
+**🐛 Issues:** ![Issues](https://img.shields.io/github/issues/zalakdoshi?style=flat)
+**📁 Repositories:** ![Repos](https://img.shields.io/github/repos/zalakdoshi?style=flat)
 
 ---
 
