@@ -7,19 +7,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zalakdoshi&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" height="195" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=zalakdoshi&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=ff6e96&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="200" />
+  <img src="https://streak-stats.demolab.com?user=zalakdoshi&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=ff6e96&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zalakdoshi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/t/zalakdoshi/zalakdoshi?label=%F0%9F%93%9D%20Commits&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/github/issues-pr/zalakdoshi/zalakdoshi?label=%F0%9F%94%A7%20Pull%20Requests&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A7%20Pull%20Requests-Check%20Profile-8A2BE2?style=for-the-badge&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/github/issues/zalakdoshi/zalakdoshi?label=%F0%9F%90%9B%20Issues&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
   &nbsp;
