@@ -6,12 +6,25 @@
 
 ### 📊 GitHub Stats
 
-**📝 Commits:** ![Commits](https://img.shields.io/github/commits/zalakdoshi?style=flat)
-**🔧 Pull Requests:** ![PRs](https://img.shields.io/github/prs/zalakdoshi?style=flat)
-**🐛 Issues:** ![Issues](https://img.shields.io/github/issues/zalakdoshi?style=flat)
-**📁 Repositories:** ![Repos](https://img.shields.io/github/repos/zalakdoshi?style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zalak1311&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="200" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=zalak1311&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=ff6e96&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="200" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalak1311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/t/zalak1311/zalak1311?label=%F0%9F%93%9D%20Commits&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/issues-pr/zalak1311/zalak1311?label=%F0%9F%94%A7%20Pull%20Requests&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/issues/zalak1311/zalak1311?label=%F0%9F%90%9B%20Issues&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzalak1311&query=%24.public_repos&label=%F0%9F%93%81%20Repositories&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
+</p>
 
 ## About Me
 
