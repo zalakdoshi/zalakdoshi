@@ -11,7 +11,6 @@
   <a href="mailto:zalakdoshi784@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zalakdoshi&style=for-the-badge&color=8A2BE2&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
