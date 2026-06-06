@@ -47,11 +47,13 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ## 📊 GitHub Stats
 
-**Total Contributions:** 105 (Aug 28, 2023 – Present)
+<!-- STATS_START -->
+**Total Contributions:** 111 (Jun 01, 2025 – Present)
 
-**Current Streak:** 3 days (Jun 4 – Jun 6)
+**Current Streak:** 3 days (Jun 04 – Jun 06)
 
-**Longest Streak:** 3 days (Jun 4 – Jun 6)
+**Longest Streak:** 3 days (Jun 04 – Jun 06)
+<!-- STATS_END -->
 
 ---
 
