@@ -47,11 +47,9 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ## 📊 GitHub Stats
 
-**Total Contributions:** 105 (Aug 28, 2023 – Present)
-
-**Current Streak:** 3 days (Jun 4 – Jun 6)
-
-**Longest Streak:** 3 days (Jun 4 – Jun 6)
+- **Total Commits:** ![Total Commits](https://img.shields.io/github/search/commits?q=author%3Azalakdoshi&color=8A2BE2&style=flat-square)
+- **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzalakdoshi&query=%24.public_repos&label=repositories&color=8A2BE2&style=flat-square)
+- **Followers:** ![Followers](https://img.shields.io/github/followers/zalakdoshi?color=8A2BE2&style=flat-square)
 
 ---
 
