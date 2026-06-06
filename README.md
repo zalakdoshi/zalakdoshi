@@ -1,97 +1,93 @@
-# Hello, I'm Zalak Doshi 👋
+<h1 align="center">Hi there, I'm Zalak Doshi 👋</h1>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Experiences;Crafting+Ideas+into+Reality;Debugging+Life,+One+Semicolon+at+a+Time;Learning.+Building.+Improving." /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+the+Making;Building+Modern+Web+Experiences;Turning+Ideas+into+Functional+Code;Learning.+Building.+Improving." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zalakdoshi1311/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zalakdoshi784@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zalakdoshi&style=for-the-badge&color=8A2BE2&label=Profile+Views" alt="Profile Views" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🙋‍♀️ About Me
+
+I'm a passionate **Full Stack Developer** who loves building web applications and solving problems through clean, meaningful code.
+
+- 🔭 &nbsp;Currently exploring the full stack — from crafting interactive UIs to building robust APIs
+- 🌱 &nbsp;Learning **TypeScript**, **Next.js**, **Docker**, and **Cloud (AWS/Azure)**
+- 💡 &nbsp;I see every bug as a lesson and every project as an opportunity to grow
+- 🎯 &nbsp;Goal: Contribute to meaningful products and collaborate with great teams
+- 📍 &nbsp;Open to **internship / placement opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" height="180" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=zalakdoshi&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=ff6e96&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="195" />
+  <img src="https://streak-stats.demolab.com?user=zalakdoshi&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=ff6e96&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </p>
+
+---
+
+## 🎯 Current Goals
+
+| Goal | Status |
+|---|---|
+| Master advanced React patterns & performance | 🔄 In Progress |
+| Build & deploy 5 full-stack production apps | 🔄 In Progress |
+| Contribute to open source projects | 📌 Planned |
+| Learn cloud technologies (AWS / Azure) | 📌 Planned |
+| Strengthen system design knowledge | 📌 Planned |
+
+---
+
+## 💬 Dev Philosophy
+
+> *"The best code is not just functional — it's readable, maintainable, and scalable. Every bug is a lesson, and every commit is a step forward."*
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/t/zalakdoshi/zalakdoshi?label=%F0%9F%93%9D%20Commits&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%94%A7%20Pull%20Requests-Check%20Profile-8A2BE2?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/github/issues/zalakdoshi/zalakdoshi?label=%F0%9F%90%9B%20Issues&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzalakdoshi&query=%24.public_repos&label=%F0%9F%93%81%20Repositories&color=8A2BE2&style=for-the-badge&labelColor=0d1117" />
+  <b>Thanks for stopping by! Let's build something great together. 🚀</b>
 </p>
-
-## About Me
-
-I'm passionate about building web applications and solving problems through code. Currently exploring the full stack—from crafting interactive frontends to designing robust backends—while discovering where my strengths and passions truly align.
-
-I'm drawn to the challenge of turning ideas into functional solutions. Whether it's debugging a tricky error, optimizing an API, or learning a new framework, I approach each challenge as an opportunity to grow.
-
-Eager to contribute, collaborate, and create meaningful solutions in the tech industry.
-
----
-
-## Technical Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,python,java,git,github,vscode,postman" />
-</p>
-
-### What I Work With
-
-**Frontend:** React.js (Hooks, Context API), JavaScript (ES6+),HTML5, CSS3 (Responsive Design, Flexbox, Grid)
-
-**Backend:** Node.js, Express.js (RESTful APIs, Middleware, Authentication), MongoDB (NoSQL, Aggregation, Indexing)
-
-**Languages:** JavaScript, Python, Java
-
-**Tools:** Git & GitHub, VS Code, Postman, npm/yarn
-
----
-
-## Currently Learning 🚀
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,docker,aws" />
-</p>
-
-- TypeScript & Next.js for modern React development
-- Docker & containerization
-- Cloud deployment (AWS/Azure)
-- System design fundamentals
-
----
-
-## Connect With Me
-
-🔗 **LinkedIn:** [linkedin.com/in/zalakdoshi1311](https://www.linkedin.com/in/zalakdoshi1311/)  
-🔗 **Email:** [zalakdoshi784@gmail.com](mailto:zalakdoshi784@gmail.com)
-
----
-
-## Development Philosophy
-
-> "The best code is not just functional—it's readable, maintainable, and scalable. Every project is an opportunity to learn, every bug is a lesson, and every solution is a step forward."
-
----
-
-## Current Goals
-
-- [ ] Master advanced React patterns and performance optimization
-- [ ] Build and deploy 5 production-ready full stack applications
-- [ ] Contribute to 10 open source projects
-- [ ] Learn cloud technologies (AWS/Azure)
-- [ ] Strengthen system design knowledge
-
----
-
-<div align="center">
-
-**"Transforming ideas into elegant code, one commit at a time."**
-
-</div>
