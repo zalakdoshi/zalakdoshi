@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+the+Making;Building+Modern+Web+Experiences;Turning+Ideas+into+Functional+Code;Learning.+Building.+Improving." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zalakdoshi1311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zalakdoshi784@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
 
