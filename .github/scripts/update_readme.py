@@ -108,12 +108,7 @@ def get_stats():
     else:
         longest_streak_date_range = ""
 
-    # Get year start date for contributions range
-    if contributions_list:
-        first_date = datetime.strptime(contributions_list[0]["date"], "%Y-%m-%d").date()
-        start_year_fmt = first_date.strftime("%b %d, %Y")
-    else:
-        start_year_fmt = "Aug 28, 2023"
+    start_year_fmt = "Aug 29, 2023"
 
     stats_text = (
         f"**Total Contributions:** {total_contributions} ({start_year_fmt} – Present)\n\n"
