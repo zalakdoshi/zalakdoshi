@@ -47,15 +47,11 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=zalakdoshi&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=ff6e96&currStreakLabel=8A2BE2&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" height="180" alt="GitHub Streak" />
-</p>
+**Total Contributions:** 105 (Aug 28, 2023 – Present)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</p>
+**Current Streak:** 3 days (Jun 4 – Jun 6)
+
+**Longest Streak:** 3 days (Jun 4 – Jun 6)
 
 ---
 
