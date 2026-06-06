@@ -75,6 +75,15 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 ---
 
+## 📬 Contact Me
+
+Feel free to reach out — I'm always open to new opportunities and conversations!
+
+- 📧 **Gmail:** [zalakdoshi784@gmail.com](mailto:zalakdoshi784@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/zalakdoshi1311](https://www.linkedin.com/in/zalakdoshi1311/)
+
+---
+
 <p align="center">
   <b>Thanks for stopping by! Let's build something great together. 🚀</b>
 </p>
