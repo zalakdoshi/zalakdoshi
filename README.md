@@ -16,15 +16,13 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-I'm a passionate **Full Stack Developer** who loves building web applications and solving problems through clean, meaningful code.
+I'm passionate about building web applications and solving problems through code. Currently exploring the full stack—from crafting interactive frontends to designing robust backends—while discovering where my strengths and passions truly align.
 
-- 🔭 &nbsp;Currently exploring the full stack — from crafting interactive UIs to building robust APIs
-- 🌱 &nbsp;Learning **TypeScript**, **Next.js**, **Docker**, and **Cloud (AWS/Azure)**
-- 💡 &nbsp;I see every bug as a lesson and every project as an opportunity to grow
-- 🎯 &nbsp;Goal: Contribute to meaningful products and collaborate with great teams
-- 📍 &nbsp;Open to **internship / placement opportunities**
+I'm drawn to the challenge of turning ideas into functional solutions. Whether it's debugging a tricky error, optimizing an API, or learning a new framework, I approach each challenge as an opportunity to grow.
+
+Eager to contribute, collaborate, and create meaningful solutions in the tech industry.
 
 ---
 
@@ -69,16 +67,6 @@ I'm a passionate **Full Stack Developer** who loves building web applications an
 </p>
 
 ---
-
-## 🎯 Current Goals
-
-| Goal | Status |
-|---|---|
-| Master advanced React patterns & performance | 🔄 In Progress |
-| Build & deploy 5 full-stack production apps | 🔄 In Progress |
-| Contribute to open source projects | 📌 Planned |
-| Learn cloud technologies (AWS / Azure) | 📌 Planned |
-| Strengthen system design knowledge | 📌 Planned |
 
 ---
 
