@@ -50,7 +50,7 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 <!-- STATS_START -->
 **Total Contributions:** 163 (Aug 29, 2023 – Present)
 
-**Current Streak:** 22 days (Jun 04 – Jun 25)
+**Current Streak:** 0 days
 
 **Longest Streak:** 22 days (Jun 04 – Jun 25)
 <!-- STATS_END -->
