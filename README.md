@@ -45,7 +45,7 @@ I'm an Information Technology student passionate about building practical web ap
 <!-- STATS_START -->
 **Total Contributions:** 182 (Aug 29, 2023 – Present)
 
-**Current Streak:** 0 days
+**Current Streak:** 2 days
 
 **Longest Streak:** 22 days (Jun 04 – Jun 25)
 
