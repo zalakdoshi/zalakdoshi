@@ -113,9 +113,24 @@ def get_stats():
     stats_text = (
         f"**Total Contributions:** {total_contributions} ({start_year_fmt} – Present)\n\n"
         f"**Current Streak:** {current_streak} {'days' if current_streak != 1 else 'day'}{streak_date_range}\n\n"
-        f"**Longest Streak:** {longest_streak} {'days' if longest_streak != 1 else 'day'}{longest_streak_date_range}"
+        f"**Longest Streak:** {longest_streak} {'days' if longest_streak != 1 else 'day'}{longest_streak_date_range}\n\n"
+        f"**Profile Views:** {get_profile_views()}"
     )
     return stats_text
+
+def get_profile_views():
+    try:
+        response = requests.get(
+            "https://api.github.com/repos/zalakdoshi/zalakdoshi",
+            headers={"Accept": "application/vnd.github.v3+json"}
+        )
+        # Use komarev API to get count
+        r = requests.get("https://komarev.com/ghpvc/?username=zalakdoshi&format=json", timeout=5)
+        if r.status_code == 200:
+            return r.json().get("count", "N/A")
+    except:
+        pass
+    return "N/A"
 
 def update_readme():
     stats_text = get_stats()
