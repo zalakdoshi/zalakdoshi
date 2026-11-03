@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+the+Making;Building+Modern+Web+Experiences;Turning+Ideas+into+Functional+Code;Learning.+Building.+Improving." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zalakdoshi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## About Me
@@ -52,6 +48,8 @@ I'm an Information Technology student passionate about building practical web ap
 **Current Streak:** 0 days
 
 **Longest Streak:** 22 days (Jun 04 – Jun 25)
+
+**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=zalakdoshi&color=blueviolet&style=flat&label=)
 <!-- STATS_END -->
 
 ---
