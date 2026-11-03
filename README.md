@@ -49,7 +49,7 @@ I'm an Information Technology student passionate about building practical web ap
 
 **Longest Streak:** 22 days (Jun 04 – Jun 25)
 
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=zalakdoshi&color=blueviolet&style=flat&label=)
+**Profile Views:** 19
 <!-- STATS_END -->
 
 ---
