@@ -5,14 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zalakdoshi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zalakdoshi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm an Information Technology student passionate about building practical web applications and solving real-world problems through code. I enjoy working across the stack, exploring new technologies, and turning ideas into functional, user-focused solutions. Always eager to learn, collaborate, and grow as a developer.
+I'm an **Information Technology student** passionate about building practical web applications and solving real-world problems through code. I enjoy working across the stack, exploring new technologies, and turning ideas into functional, user-focused solutions. Always eager to learn, collaborate, and grow as a developer.
+
+- 🌍 Based in **Ahmedabad, India**
+- 🎓 Studying **Information Technology**
+- 🔭 Currently building full-stack MERN applications
+- 🌱 Exploring **Next.js**, **TypeScript** & **Cloud Deployments**
+- 💬 Ask me about **React, Node.js, MongoDB, Express**
+- 📫 Reach me at **zalakdoshi784@gmail.com**
+- 🚀 Portfolio: [zalakkkk.vercel.app](https://zalakkkk.vercel.app)
 
 ---
 
@@ -41,18 +49,24 @@ I'm an Information Technology student passionate about building practical web ap
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- STATS_START -->
-**Total Contributions:** 182 (Aug 29, 2023 – Present)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zalakdoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalakdoshi&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
 
-**Current Streak:** 0 days
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zalakdoshi&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+</p>
 
-**Longest Streak:** 22 days (Jun 04 – Jun 25)
-<!-- STATS_END -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zalakdoshi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -64,10 +78,12 @@ I'm an Information Technology student passionate about building practical web ap
 
 ## 📬 Contact Me
 
-Feel free to reach out — I'm always open to new opportunities and conversations!
-
-- 📧 **Gmail:** [zalakdoshi784@gmail.com](mailto:zalakdoshi784@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/zalakdoshi1311](https://www.linkedin.com/in/zalakdoshi1311/)
+<p align="center">
+  <a href="mailto:zalakdoshi784@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zalakdoshi1311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/zalakdoshi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://zalakkkk.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
