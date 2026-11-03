@@ -4,16 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+the+Making;Building+Modern+Web+Experiences;Turning+Ideas+into+Functional+Code;Learning.+Building.+Improving." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zalakdoshi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## About Me
 
-I'm passionate about building web applications and solving problems through code. Currently exploring the full stack—from crafting interactive frontends to designing robust backends—while discovering where my strengths and passions truly align.
-
-I'm drawn to the challenge of turning ideas into functional solutions. Whether it's debugging a tricky error, optimizing an API, or learning a new framework, I approach each challenge as an opportunity to grow.
-
-Eager to contribute, collaborate, and create meaningful solutions in the tech industry.
+I'm an Information Technology student passionate about building practical web applications and solving real-world problems through code. I enjoy working across the stack, exploring new technologies, and turning ideas into functional, user-focused solutions. Always eager to learn, collaborate, and grow as a developer.
 
 ---
 
@@ -54,8 +53,6 @@ Eager to contribute, collaborate, and create meaningful solutions in the tech in
 
 **Longest Streak:** 22 days (Jun 04 – Jun 25)
 <!-- STATS_END -->
-
----
 
 ---
 
